@@ -1,0 +1,22 @@
+package vokabeltrainer;
+
+public enum Command
+{
+   SELECTED_TAB,
+   SELECT_ALL,
+   ALL_SELECTED,
+   DELETE,
+   CLEAR,
+   NEW,
+   SAVE,
+   ALL,
+   INITIAL,
+   RESTORE,
+   SEARCH_HEBREW,
+   SEARCH_GERMAN,
+   NEW_TAB,
+   YES_NEW_WORD,
+   NO_NEW_WORD,
+   DIRECTION_GERMAN_HEBREW,
+   DIRECTION_HEBREW_GERMAN
+}

@@ -1,0 +1,62 @@
+<html>
+
+<h1>Nachweise/about</h1>
+
+<p><h2>Geraeusche/sounds</h2>
+<p><h3>ClappingSound: Attribution License</h3>
+Attribution: You must give appropriate credit, provide a link to the license,
+ and indicate if changes were made. You may do so in any reasonable manner,
+  but not in any way that suggests the licensor endorses you or your use.<br>
+  Es wurde ein "Bravo!" und weiteres Klatschen hinzugef√ºgt.<br>
+<a href="https://freesound.org/people/ebcrosby/sounds/339483/">https://freesound.org/people/ebcrosby/sounds/339483/</a></p>
+
+<p><h3>WaveSound: Creative Commons License</h3>
+No Copyright: The person who associated a work with this deed has dedicated
+ the work to the public domain by waiving all of his or her rights to the work
+ worldwide under copyright law, including all related and neighboring rights,
+ to the extent allowed by law. You can copy, modify, distribute and perform
+ the work, even for commercial purposes, all without asking permission.<br>
+<a href="https://freesound.org/people/florianreichelt/sounds/450755/">https://freesound.org/people/florianreichelt/sounds/450755/</a></p></p>
+
+<p><h2>Programmierung/programming</h2>
+<p><h3>openJDK 14</h3>
+licensed under the GNU General Public License, version 2, with Classpath Exception.<br>
+<a href="https://openjdk.java.net/legal/gplv2+ce.html">https://openjdk.java.net/legal/gplv2+ce.html</a>
+</p>
+
+<p><h3>Apache Commons Lang ª 3.8.1</h3>
+License	Apache 2.0<br>
+<a href="https://www.apache.org/licenses/LICENSE-2.0">https://www.apache.org/licenses/LICENSE-2.0</a><br>
+<a href="https://mvnrepository.com/artifact/org.apache.commons/commons-lang3/3.8.1">https://mvnrepository.com/artifact/org.apache.commons/commons-lang3/3.8.1</a>
+</p>
+
+<p><h3>JUnit Jupiter Engine ª 5.6.2</h3>
+License	EPL 2.0<br>
+<a href="https://www.eclipse.org/legal/epl-2.0/">https://www.eclipse.org/legal/epl-2.0/</a><br>
+<a href="https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine/5.6.2">https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine/5.6.2</a>
+</p></p>
+
+<p><h2>Bilder/images</h2>
+<p><h3>Pixabay</h3>
+<a href="https://pixabay.com">https://pixabay.com</a>
+</p>
+
+<p><h3>Eigenproduktion/own work</h3>
+Bilder, die auf pixabay.com nicht erhaeltlich sind, wurden selbst erstellt./Images not available on pixabay.com are my own work.
+</p></p>
+
+<p><h2>Schriftarten/fonts</h2>
+<p><h3>Cardo von David J. Perry</h3>
+SIL Open Font License, version 1.1<br>
+<a href="http://scholarsfonts.net/index.html">http://scholarsfonts.net/index.html</a></p>
+
+<p><h3>Orkney von Samuel Oakes und Alfredo Marco Pradil</h3>
+<a href="https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL">SIL Open Font License</a><br>
+<a href="https://www.behance.net/gallery/34855701/Orkney-Open-Source-Typeface">https://www.behance.net/gallery/34855701/Orkney-Open-Source-Typeface</a></p>
+</p>
+
+<p><h3>Eigenproduktion/own work</h3>
+Der Schreibschrift Font wurde selbst erstellt./The hebrew script font is my own work.
+</p></p>
+
+</html>
